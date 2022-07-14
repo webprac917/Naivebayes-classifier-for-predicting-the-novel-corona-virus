@@ -1,0 +1,8 @@
+Naïve Bayes Classifier for Predicting the Novel Coronavirus
+Proposed:
+Algorithm / Model: Random Forest Classifier
+Accuracy score:0.98
+**********************************
+Existing:
+Algorithm: naive_bayes
+Accuracy score:0.770
